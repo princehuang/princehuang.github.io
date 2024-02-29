@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
-title: 5 Minute Timer - More Than Just A Timer
+layout: page
+title: "5 Minute Timer - More Than Just A Timer"
 description: 5 minute timer allows you to set any date and time to make sure you don't miss any important moments.
+permalink: /5-minute-timer
